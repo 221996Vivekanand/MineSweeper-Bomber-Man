@@ -1,0 +1,13 @@
+p {
+ text-align: center;
+ text-transform: capitalize;
+}
+#centr{
+    align-self: center;
+    margin-right: 100px;
+}
+div {
+    box-sizing: border-box;
+    position: relative;
+    background-position: inherit;
+}
